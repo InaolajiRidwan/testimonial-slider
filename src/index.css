@@ -1,12 +1,11 @@
-@import "tailwindcss";
 @import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+@import "tailwindcss";
 
 @theme {
   --color-blue-mentor: hsl(240, 38%, 20%);
   --color-gray-mentor: hsl(240, 18%, 77%);
 
-
- --font-size: 32px; 
+  --font-size: 32px;
   --font-inter: "Inter", sans-serif;
 }
 /* 

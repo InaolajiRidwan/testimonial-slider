@@ -1,5 +1,5 @@
 import React from "react";
-import LeftSection from "../components/leftSection";
+import LeftSection from "../components/LeftSection";
 import RightSection from "../components/RightSection";
 
 export default function HomePage({
